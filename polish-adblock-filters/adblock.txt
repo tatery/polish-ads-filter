@@ -21,13 +21,6 @@
 ! v.2018082703 aktualizacja: pon, 27 sierpnia 2018, 19:05:00
 !
 !
-!-----------------------Integration of supplement lists for uBlock & AdGuard-----------------------!
-!#if ext_ublock
-!#include adblock_ublock.txt
-!#endif
-!#if adguard
-!#include adblock_adguard.txt
-!#endif
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
